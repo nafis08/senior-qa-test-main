@@ -1,0 +1,21 @@
+const DEFAULT_INPUT_DELAY_SLOW = 200;
+const DEFAULT_TIMEOUT = 60 * 10000;
+const DEFAULT_VIEWPORT = {
+    width: 1920,
+    height: 1080,
+};
+
+const WILD_CARDS = {
+    TEXT_ELEMENT: "<elementText>",
+}
+
+const DEFAULT_SEARCH_RESULT_MAX_AMOUNT = 10;
+
+module.exports = {
+    DEFAULT_INPUT_DELAY_SLOW,
+    DEFAULT_TIMEOUT,
+    DEFAULT_VIEWPORT,
+    WILD_CARDS,
+    DEFAULT_SEARCH_RESULT_MAX_AMOUNT,
+};
+

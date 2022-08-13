@@ -1,0 +1,9 @@
+{
+  "env": {
+    "frontendUrl": "https://www.deinbett.de",
+    "defaultUsername": "test_e2e",
+    "defaultPassword": "test_e2e",
+    "cyLogEnabled": true,
+    "consoleLogEnabled": true
+  }
+}

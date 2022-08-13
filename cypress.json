@@ -1,0 +1,6 @@
+{
+  "defaultCommandTimeout": 60000,
+  "responseTimeout": 60000,
+  "requestTimeout": 60000,
+  "testFiles": "**/*.feature"
+}
